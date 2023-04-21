@@ -11,4 +11,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xeunbin&show_icons=true&locale=en" alt="xeunbin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xeunbin&show_icons=true&locale=en&layout=compact" alt="xeunbin" /></p>
