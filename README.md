@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xeunBin</h1>
 <h3 align="center">Become Better!</h3>
 
-- Currently Working On : **Selene // Redmi 10**
+- -- Currently Working On : **Selene // Redmi 10**
 
 - -- Currently Learning : **Everythink :)**
 
