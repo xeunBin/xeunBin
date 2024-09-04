@@ -5,10 +5,10 @@ Welcome to my corner of the coding universe 🌌
 ## About Me
 - 24.yo/Male
 
-## 🚀 My Tech Stack
-Here’s a quick glance at the tools I enjoy using:
+## 🚀 My Learning
+These are some languages that interest me and I want to learn them.
 
-- **Currently Learning some Languages**: 
+- **Languages**: 
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
   - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
   - ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
