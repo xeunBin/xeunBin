@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm [itseunbinn]!
+# 👋 Hi, I'm itseunbinn!
 
 Welcome to my corner of the coding universe 🌌
 
