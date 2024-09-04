@@ -33,11 +33,10 @@ I'm always open to discussing ideas, collaborating on projects or just having a 
 
 ## itseunbinn Github Stats
    ![itseunbinn GitHub stats](https://github-readme-stats.vercel.app/api?username=xeunBin&show_icons=true&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeunBin&layout=compact&theme=radical)
-
+   
 ## 🤝 Let's Connect!
 Feel free to follow me or drop a message. Let's build amazing things together!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.profile)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=xeunBin.profile)
 
 Thank you for visiting my profile! 🎉
