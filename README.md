@@ -24,11 +24,6 @@ These are some languages that interest me and I want to learn them.
 - **Tools**: 
   - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
   - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
-## 🌱 Currently Learning
-- [Framework/Technology 1]
-- [Framework/Technology 2]
-- [Framework/Technology 3]
   
 ## 📫 How to reach me
 I'm always open to discussing ideas, collaborating on projects or just having a friendly chat!
