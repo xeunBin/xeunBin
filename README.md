@@ -8,7 +8,7 @@ Welcome to my corner of the coding universe 🌌
 ## 🚀 My Tech Stack
 Here’s a quick glance at the tools I enjoy using:
 
-- **Languages**: 
+- **Currently Learning some Languages**: 
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
   - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) 
   - ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
@@ -34,14 +34,11 @@ Here’s a quick glance at the tools I enjoy using:
 I'm always open to discussing ideas, collaborating on projects or just having a friendly chat!
 
 - 📧 [anstykx00@gmail.com]
+- 😶‍🌫️ Telegram: [Häns](https://t.me/noticesa)
 
 ## 🤝 Let's Connect!
 Feel free to follow me or drop a message. Let's build amazing things together!
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.profile)
-
-## 🌍 Fun fact about me:
-![Fun Fact Image](https://example.com/image.png)  
-*(Replace this URL with a fun image or fact about yourself)*
 
 Thank you for visiting my profile! 🎉
