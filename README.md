@@ -37,6 +37,6 @@ I'm always open to discussing ideas, collaborating on projects or just having a 
 ## 🤝 Let's Connect!
 Feel free to follow me or drop a message. Let's build amazing things together!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=xeunBin.profile)
+ ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=xeunBin.visitor)
 
 Thank you for visiting my profile! 🎉
